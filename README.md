@@ -60,7 +60,8 @@ RTL LOGIC FOR FLIPFLOPS
 
 
 TIMING DIGRAMS FOR FLIP FLOPS
-[wave img.bmp](https://github.com/user-attachments/files/24107810/wave.img.bmp)
+[wave(2) img.bmp](https://github.com/user-attachments/files/24158057/wave.2.img.bmp)
+
 
 
 RESULTS
